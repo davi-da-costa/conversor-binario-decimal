@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/conversor-binario-decimal/static/css/main.b4ac2ae7.css",
+    "main.js": "/conversor-binario-decimal/static/js/main.246e6fa8.js",
+    "index.html": "/conversor-binario-decimal/index.html",
+    "main.b4ac2ae7.css.map": "/conversor-binario-decimal/static/css/main.b4ac2ae7.css.map",
+    "main.246e6fa8.js.map": "/conversor-binario-decimal/static/js/main.246e6fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4ac2ae7.css",
+    "static/js/main.246e6fa8.js"
+  ]
+}
